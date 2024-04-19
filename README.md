@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbok0101&label=Profile%20views&color=0e75b6&style=flat" alt="devbok0101" /> </p>
 
-- 📝 저는 생각을 여기서 정리합니다. [https://devboklab.tistory.com/](https://devboklab.tistory.com/)
+- 📝 저는 생각을 여기서 정리합니다. [DEVBOKLAB으로 가기 🚀](https://devboklab.tistory.com/)
 
-- 📄 저를 더 자세히 알고 싶다면요! [https://www.notion.so/48014f8f67a840b8aaf9ed6e888c0c15?pvs=4](https://www.notion.so/48014f8f67a840b8aaf9ed6e888c0c15?pvs=4)
+- 📄 저를 더 자세히 알고 싶다면요! [RESUME를 살펴보자 🔍](https://www.notion.so/48014f8f67a840b8aaf9ed6e888c0c15?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
